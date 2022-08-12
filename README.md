@@ -2,16 +2,12 @@
 
 This is a **Information Retrieval** Project which is based on the searching of the movie plot in a given dataset. The goal of our project is to analyze and extract meaningful information from Wikipedia movie plots dataset. Our information retrieval algorithm returns similar movie titles based on an input query.
 
-# Github Repository
-
-**[https://github.com/Rugvedhvaidya/Movie_Plots_Retrieval](https://github.com/Rugvedhvaidya/Movie_Plots_Retrieval)**
 
 ## Dataset Used in the Project
 
 - Kaggle
   **[https://www.kaggle.com/jrobischon/wikipedia-movie-plots](https://www.kaggle.com/jrobischon/wikipedia-movie-plots)**
-- Github
-  **[https://github.com/Rugvedhvaidya/Movie_Plots_Retrieval/blob/main/wiki_movie_plots_deduped.csv](https://github.com/Rugvedhvaidya/Movie_Plots_Retrieval/blob/main/wiki_movie_plots_deduped.csv)**
+
 
 # Project Description
 
